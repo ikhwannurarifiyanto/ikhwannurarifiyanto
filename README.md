@@ -20,13 +20,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ikhwan Nur Arifiyanto**, a creative professional based in **Surabaya, Indonesia**.
+<div align="center">
 
-I enjoy combining **design, technology, and digital creativity** to create meaningful visual experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=180&multiline=true&repeat=true&lines=I'm+Ikhwan+Nur+Arifiyanto%2C+a+creative+professional+based+in+Surabaya%2C+Indonesia.;I+enjoy+combining+design%2C+technology%2C+and+digital+creativity.;🎨+Graphic+Design+%7C+📱+Social+Media+Content+%7C+📢+Digital+Marketing;🌐+Web+Development+%7C+💡+Creative+Projects" />
 
-```text
-🎨 Graphic Design
-📱 Social Media Content
-📢 Digital Marketing
-🌐 Web Development
-💡 Creative Projects
+</div>
