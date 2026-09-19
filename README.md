@@ -1,12 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Ikhwan Nur Arifiyanto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ikhwan%20Nur%20Arifiyanto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Graphic+Designer+%F0%9F%8E%A8;Digital+Creative+%F0%9F%92%BB;Web+Enthusiast+%F0%9F%8C%90;Visual+Content+Creator+%F0%9F%93%B8;Welcome+to+my+GitHub+%F0%9F%91%8B" />
+### 👋 Hello, I'm Ikhwan
+
+**🎨 Graphic Designer • 💻 Digital Creative • 🌐 Web Enthusiast**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=IKHWAN%20NUR&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio-i.my.canva.site/portofolio-ikhwan-nur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 </div>
 
@@ -14,15 +20,13 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Ikhwan Nur Arifiyanto
-location: Surabaya, Indonesia
-role: Graphic Designer & Digital Creative
+I'm **Ikhwan Nur Arifiyanto**, a creative professional based in **Surabaya, Indonesia**.
 
-interests:
-  - Graphic Design
-  - Visual Content
-  - Branding
-  - Digital Marketing
-  - Web Development
-  - Creative Technology
+I enjoy combining **design, technology, and digital creativity** to create meaningful visual experiences.
+
+```text
+🎨 Graphic Design
+📱 Social Media Content
+📢 Digital Marketing
+🌐 Web Development
+💡 Creative Projects
