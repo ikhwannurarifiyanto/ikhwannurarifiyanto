@@ -1,42 +1,37 @@
 ## Hi there 👋
 
-<html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<div align="center">
 
-  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
-  <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
-  <link href="https://htmlku.com/kamumau/style.css" rel="stylesheet" type="text/css" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ikhwan%20Nur%20Arifiyanto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<head>
-  <title>Script HTML buat Kamu</title>
-  <meta name="description" content="@feelthisray - Script HTML by feeldream.id">
-</head>
-<body>
-	
-   <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="https://feeldreams.github.io/pics/awan/2.jpg" id="wallpaper"/>
-   </div>
-  
-  <div class="kumpulanstiker">
-         <!-- Stiker untuk Konten -->
-         <img src="https://feeldreams.github.io/pandapanah.gif" id="stiker1"/>
-         <img src="https://feeldreams.github.io/cilukba.gif" id="stiker2"/>
-         <img src="https://feeldreams.github.io/smprt.gif" id="stiker3"/>
-         <img src="https://feeldreams.github.io/gumush.gif" id="stiker4"/>
-         <img src="https://feeldreams.github.io/" id="stiker5"/>
-  </div>
+### 👋 Hello, I'm Ikhwan
 
-   <div id='Content'>
-   	
-     <div id="suratin" onClick="memulai();audio.play();">
-       <!-- Surat --><img src="https://rayyscoding.github.io/envelope.png"/>
-     </div>
-     <p id="ket">Klik Suratnya!</p>
-   
-     <div>
-      <!-- Foto Akhir -->
-      <img src="https://feeldreams.github.io/pusn.gif" id="fotoakhir" />
-      <img src="https://feeldreams.github.io/emawh.gif" id="fotoakhir2" />
-    </div>
+**🎨 Graphic Designer • 💻 Digital Creative • 🌐 Web Enthusiast**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio-i.my.canva.site/portofolio-ikhwan-nur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Ikhwan Nur Arifiyanto**, a creative professional based in **Surabaya, Indonesia**.
+
+I enjoy combining **design, technology, and digital creativity** to create meaningful visual experiences.
+
+```text
+🎨 Graphic Design
+📱 Social Media Content
+📢 Digital Marketing
+🌐 Web Development
+💡 Creative Projects
      <div><blockquote id='bq'>
        <p id="kalimat"></p>
        <p id="kalimatc"></p>
