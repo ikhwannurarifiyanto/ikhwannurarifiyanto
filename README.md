@@ -616,7 +616,8 @@
           ctx.arc(
             food.x * GRID_SIZE + GRID_SIZE / 2,
             food.y * GRID_SIZE + GRID_SIZE / 2,
-            GRID_SIZE / 2.8,
+
+GRID_SIZE / 2.8,
             0,
             Math.PI * 2
           );
