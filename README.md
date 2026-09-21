@@ -58,7 +58,7 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 
 ### **dark mode**
 
-user contributions graph
+Snakes explore life 
 
 <picture>
   <source
