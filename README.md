@@ -27,9 +27,10 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 ### 🔗 Core Tech Stacks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,canva,ps,lr,ai" />
   </a>
 </p>
+
 
 ### 🔗 Other Tech Stacks
 <p align="left">
