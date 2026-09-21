@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ikhwan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### **🎨 Graphic Designer • 💻 Digital Creative • 🌐 Web Enthusiast**
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
+ 
 <br>
 
 <!-- Bio Section -->
