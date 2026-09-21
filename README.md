@@ -38,7 +38,9 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
 
   <img src="https://img.shields.io/badge/CorelDRAW-%2300A150.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
-  
+
+  <img src="https://raw.githubusercontent.com/ikhwannurarifiyanto/Ikhwann/main/file_00000000441882119b97334ed784741b.png" width="48" height="48" alt="Canva" />
+</p>
 
 ### 🔗 Other Tech Stacks
 <p align="left">
