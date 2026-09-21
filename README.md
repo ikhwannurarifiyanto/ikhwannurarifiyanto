@@ -1,25 +1,12 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grandmaster AI Chess - Showcase Edition</title>
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <!-- Chessboard.js CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css">
-    
-    <style>
-        :root {
-            --bg-dark: #0f172a;
-            --accent: #6366f1;
-            --accent-hover: #4f46e5;
-            --board-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
+<div align="center">
+  <iframe 
+    src="https://ikhwannurarifiyanto.github.io/Ikhwan-/" 
+    width="100%" 
+    height="430" 
+    frameborder="0" 
+    style="border-radius: 12px; overflow: hidden; border: none;">
+  </iframe>
+</div>            margin: 0;
             padding: 0;
             font-family: 'Inter', sans-serif;
         }
