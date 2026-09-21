@@ -75,4 +75,22 @@ Snakes explore life
   />
 </picture>
 
+### **dark mode**
+
+Snakes explore life 2
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ikhwannurarifiyanto/REPO-KAMU/main/github-snake-red-blue.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ikhwannurarifiyanto/REPO-KAMU/main/github-snake-red-blue.svg"
+  />
+  <img
+    alt="red snake eating blue food"
+    src="https://raw.githubusercontent.com/ikhwannurarifiyanto/REPO-KAMU/main/github-snake-red-blue.svg"
+  />
+</picture>
 
