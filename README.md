@@ -39,8 +39,6 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
 
-  <img src="https://img.shields.io/badge/CorelDRAW-%2300A150.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
-
 
 </p>
 
