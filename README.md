@@ -1,14 +1,16 @@
-
 <!-- CHESS GAME SECTION -->
 <div align="center">
 
 ### ♟️ Play Chess with Me!
 
-[![Chess Board](https://readme-chess.vercel.app/api/chess?user=USERNAME_GITHUBMU)](https://github.com/USERNAME_GITHUBMU/USERNAME_GITHUBMU/issues/new?template=chess_move.md)
+<a href="https://github.com/ikhwannurarifiyanto/ikhwannurarifiyanto/issues/new?title=chess%7Cmove%3A">
+  <img src="https://raw.githubusercontent.com/TimP23/TimP23/master/chess/board.png" alt="Chess Board" width="400"/>
+</a>
 
-*Klik papan utawa link ing ndhuwur kanggo miwiti/ngutak-atik langkah catur!*
+*Klik papan catur di atas untuk mulai bermain!*
 
 </div>
+
 
 
 <div align="center">
