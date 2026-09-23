@@ -34,11 +34,12 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 </p>
 
 ### 🎨 Design & Editing Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
   <img src="https://img.shields.io/badge/CorelDRAW-008751?style=for-the-badge&logo=vector-graphics&logoColor=white" alt="CorelDRAW" />
 </p>
+
 
 
 ### 🔗 Other Tech Stacks
