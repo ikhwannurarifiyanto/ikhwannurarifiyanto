@@ -1,3 +1,16 @@
+
+<!-- CHESS GAME SECTION -->
+<div align="center">
+
+### ♟️ Play Chess with Me!
+
+[![Chess Board](https://readme-chess.vercel.app/api/chess?user=USERNAME_GITHUBMU)](https://github.com/USERNAME_GITHUBMU/USERNAME_GITHUBMU/issues/new?template=chess_move.md)
+
+*Klik papan utawa link ing ndhuwur kanggo miwiti/ngutak-atik langkah catur!*
+
+</div>
+
+
 <div align="center">
 
 <!-- Header Banner -->
