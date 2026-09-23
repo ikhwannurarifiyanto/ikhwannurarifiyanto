@@ -43,11 +43,12 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ikhwannurarifiyanto/Ikhwann/main/file_00000000441882119b97334ed784741b.png" width="40" alt="Custom Icon" />
 </p>
-
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/CorelDRAW-008751?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
 </p>
+
 
 ### 🔗 Other Tech Stacks
 <p align="left">
