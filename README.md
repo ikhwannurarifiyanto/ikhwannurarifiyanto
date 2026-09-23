@@ -1,17 +1,3 @@
-<!-- CHESS GAME SECTION -->
-<div align="center">
-
-### ♟️ Play Chess with Me!
-
-<a href="https://github.com/ikhwannurarifiyanto/ikhwannurarifiyanto/issues/new?title=chess%7Cmove%3A">
-  <img src="https://raw.githubusercontent.com/TimP23/TimP23/master/chess/board.png" alt="Chess Board" width="400"/>
-</a>
-
-*Klik papan catur di atas untuk mulai bermain!*
-
-</div>
-
-
 
 <div align="center">
 
