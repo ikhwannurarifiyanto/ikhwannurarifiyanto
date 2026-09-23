@@ -37,10 +37,11 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
 <p align="left">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 
+  <img
+  src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
 
-
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-
+<p align="left">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=CorelDraw &logoColor=white" alt="CorelDraw" />
 
 </p>
 
