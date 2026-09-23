@@ -44,6 +44,8 @@ Saya seorang Graphic Designer dan Digital Creative yang berfokus pada pembuatan 
   <img src="https://raw.githubusercontent.com/ikhwannurarifiyanto/Ikhwann/main/file_00000000441882119b97334ed784741b.png" width="40" alt="Custom Icon" />
 </p>
 
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+
 
 </p>
 
